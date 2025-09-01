@@ -1,7 +1,5 @@
-# Ignore everything
 *
 
-# But do not ignore .gitignore itself
 !.gitignore
 
 # Allow Python files
